@@ -1,0 +1,83 @@
+#kad{
+ text-shadow: 0 0 10px rgba(234, 88, 12, 0.8),
+     0 0 20px rgba(234, 88, 12, 0.6),
+     0 0 40px rgba(234, 88, 12, 0.6),
+     0 0 80px rgba(234, 88, 12, 0.6),
+     0 0 160px rgba(234, 88, 12, 0.6);
+}
+#menu-button{
+ text-shadow: 0 0 10px rgba(234, 88, 12, 0.8),
+     0 0 20px rgba(234, 88, 12, 0.6),
+     0 0 40px rgba(234, 88, 12, 0.6),
+     0 0 80px rgba(234, 88, 12, 0.6),
+     0 0 160px rgba(234, 88, 12, 0.6);
+}
+#Ilhem{
+text-shadow: 0 0 10px rgba(234, 88, 12, 0.8),
+     0 0 20px rgba(234, 88, 12, 0.6),
+     0 0 40px rgba(234, 88, 12, 0.6),
+     0 0 80px rgba(234, 88, 12, 0.6),
+     0 0 160px rgba(234, 88, 12, 0.6);
+}
+#ab{
+    text-shadow: 0 0 5px rgba(255, 165, 0, 0.6), 
+    0 0 10px rgba(255, 165, 0, 0.4),
+    0 0 15px rgba(255, 165, 0, 0.4),
+    0 0 18px rgba(255, 165, 0, 0.4);
+}
+#mobile-menu{
+    text-shadow: 0 0 5px rgba(255, 165, 0, 0.6), 
+    0 0 10px rgba(255, 165, 0, 0.4),
+    0 0 15px rgba(255, 165, 0, 0.4),
+    0 0 18px rgba(255, 165, 0, 0.4);
+}
+#hello{
+    text-shadow: 0 0 5px rgba(255, 165, 0, 0.6), 
+    0 0 10px rgba(255, 165, 0, 0.4),
+    0 0 15px rgba(255, 165, 0, 0.4),
+    0 0 20px rgba(255, 165, 0, 0.4);
+}
+.glow-title {
+    text-shadow: 0 0 5px rgba(255, 165, 0, 0.6), 
+    0 0 10px rgba(255, 165, 0, 0.4),
+    0 0 15px rgba(255, 165, 0, 0.4),
+    0 0 20px rgba(255, 165, 0, 0.4);
+}
+.glow-skill {
+    text-shadow: 0 0 5px rgba(255, 165, 0, 0.6), 
+    0 0 10px rgba(255, 165, 0, 0.4),
+    0 0 15px rgba(255, 165, 0, 0.4),
+    0 0 20px rgba(255, 165, 0, 0.4);
+}
+#C{
+    text-shadow: 0 0 5px rgba(255, 165, 0, 0.6), 
+    0 0 8px rgba(255, 165, 0, 0.4),
+    0 0 9px rgba(255, 165, 0, 0.4),
+    0 0 10px rgba(255, 165, 0, 0.4);
+}
+#cont{
+    text-shadow: 0 0 5px rgba(255, 165, 0, 0.6), 
+    0 0 10px rgba(255, 165, 0, 0.4),
+    0 0 15px rgba(255, 165, 0, 0.4),
+    0 0 18px rgba(255, 165, 0, 0.4);
+}
+#proj{
+    text-shadow: 0 0 5px rgba(255, 165, 0, 0.6), 
+    0 0 9px rgba(255, 165, 0, 0.4),
+    0 0 10px rgba(255, 165, 0, 0.4),
+    0 0 15px rgba(255, 165, 0, 0.4);
+}
+@keyframes slideFadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+.animate-slide-fade-in {
+    animation: slideFadeIn 1s ease-out forwards;
+  }
+  
